@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Sigapk">
         <activity
+            android:name=".Institution"
+            android:exported="true" />
+        <activity
+            android:name=".Person"
+            android:exported="true" />
+        <activity
             android:name=".optionMenu"
             android:exported="true" />
         <activity
