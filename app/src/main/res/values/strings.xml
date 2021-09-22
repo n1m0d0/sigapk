@@ -3,12 +3,22 @@
     <string name="registration">Registro</string>
     <string name="youthsRegistration">Registro de Jóvenes</string>
     <string name="businessRegistration">Registro de Empresas</string>
-    <!-- Form Person -->
-    <string name="name">Nombre</string>
-    <string name="paternal">Apellido Paterno</string>
-    <string name="maternal">Apellido Materno</string>
+    <!-- Form General -->
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="captcha">Captcha</string>
     <string name="register">Registrarse</string>
+    <!-- Form Person -->
+    <string name="name">Nombre</string>
+    <string name="paternal">Apellido Paterno</string>
+    <string name="maternal">Apellido Materno</string>
+    <!-- Form Institution -->
+    <string name="businessName">Razón Social</string>
+    <string name="tradeName">Nombre Comercial</string>
+    <string name="society">Tipo de Sociedad</string>
+    <string name="nit">NIT</string>
+    <!-- Form Authentication -->
+    <string name="signIn">Iniciar Sesion</string>
+    <string name="start">Iniciar</string>
+
 </resources>
