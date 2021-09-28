@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
+    android:background="@color/blueBG"
     tools:context=".Institution">
 
     <TextView
@@ -13,6 +14,7 @@
         android:layout_height="wrap_content"
         android:text="@string/businessRegistration"
         android:padding="20dp"
+        android:textColor="@color/white"
         android:textSize="20dp"/>
 
     <ScrollView
@@ -37,6 +39,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/businessName"
                     android:textSize="16dp"
+                    android:textColor="@color/white"
                     android:layout_weight="6"/>
 
                 <EditText
@@ -59,6 +62,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/tradeName"
                     android:textSize="16dp"
+                    android:textColor="@color/white"
                     android:layout_weight="6"/>
 
                 <EditText
@@ -81,6 +85,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/society"
                     android:textSize="16dp"
+                    android:textColor="@color/white"
                     android:layout_weight="6"/>
 
                 <Spinner
@@ -102,6 +107,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/nit"
+                    android:textColor="@color/white"
                     android:textSize="16dp"
                     android:layout_weight="6"/>
 
@@ -126,6 +132,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/email"
                     android:textSize="16dp"
+                    android:textColor="@color/white"
                     android:layout_weight="6"/>
 
                 <EditText
@@ -149,6 +156,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/password"
                     android:textSize="16dp"
+                    android:textColor="@color/white"
                     android:layout_weight="6"/>
 
                 <EditText

@@ -25,6 +25,7 @@
         android:layout_height="wrap_content"
         android:text="@string/registration"
         android:textSize="30dp"
+        android:textColor="@color/white"
         app:layout_constraintBottom_toTopOf="@+id/ivYoung"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
